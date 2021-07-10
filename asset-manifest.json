@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/vivegaaschool-website/static/css/main.a617e044.chunk.css",
-    "main.js": "/vivegaaschool-website/static/js/main.9b12be42.chunk.js",
-    "main.js.map": "/vivegaaschool-website/static/js/main.9b12be42.chunk.js.map",
-    "runtime-main.js": "/vivegaaschool-website/static/js/runtime-main.08db79e2.js",
-    "runtime-main.js.map": "/vivegaaschool-website/static/js/runtime-main.08db79e2.js.map",
-    "static/js/2.2ba87aef.chunk.js": "/vivegaaschool-website/static/js/2.2ba87aef.chunk.js",
-    "static/js/2.2ba87aef.chunk.js.map": "/vivegaaschool-website/static/js/2.2ba87aef.chunk.js.map",
-    "static/js/3.7dc83049.chunk.js": "/vivegaaschool-website/static/js/3.7dc83049.chunk.js",
-    "static/js/3.7dc83049.chunk.js.map": "/vivegaaschool-website/static/js/3.7dc83049.chunk.js.map",
-    "index.html": "/vivegaaschool-website/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/vivegaaschool-website/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.2ba87aef.chunk.js.LICENSE.txt": "/vivegaaschool-website/static/js/2.2ba87aef.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/vivegaaschool-website/static/media/logo.6ce24c58.svg"
+    "main.css": "/static/css/main.a617e044.chunk.css",
+    "main.js": "/static/js/main.9b12be42.chunk.js",
+    "main.js.map": "/static/js/main.9b12be42.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.06c24158.js",
+    "runtime-main.js.map": "/static/js/runtime-main.06c24158.js.map",
+    "static/js/2.2ba87aef.chunk.js": "/static/js/2.2ba87aef.chunk.js",
+    "static/js/2.2ba87aef.chunk.js.map": "/static/js/2.2ba87aef.chunk.js.map",
+    "static/js/3.7dc83049.chunk.js": "/static/js/3.7dc83049.chunk.js",
+    "static/js/3.7dc83049.chunk.js.map": "/static/js/3.7dc83049.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.2ba87aef.chunk.js.LICENSE.txt": "/static/js/2.2ba87aef.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.08db79e2.js",
+    "static/js/runtime-main.06c24158.js",
     "static/js/2.2ba87aef.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.9b12be42.chunk.js"
