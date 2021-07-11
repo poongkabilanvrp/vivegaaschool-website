@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/vivegaaschool-website/static/css/main.a617e044.chunk.css",
-    "main.js": "/vivegaaschool-website/static/js/main.9b12be42.chunk.js",
-    "main.js.map": "/vivegaaschool-website/static/js/main.9b12be42.chunk.js.map",
-    "runtime-main.js": "/vivegaaschool-website/static/js/runtime-main.08db79e2.js",
-    "runtime-main.js.map": "/vivegaaschool-website/static/js/runtime-main.08db79e2.js.map",
-    "static/js/2.2ba87aef.chunk.js": "/vivegaaschool-website/static/js/2.2ba87aef.chunk.js",
-    "static/js/2.2ba87aef.chunk.js.map": "/vivegaaschool-website/static/js/2.2ba87aef.chunk.js.map",
-    "static/js/3.7dc83049.chunk.js": "/vivegaaschool-website/static/js/3.7dc83049.chunk.js",
-    "static/js/3.7dc83049.chunk.js.map": "/vivegaaschool-website/static/js/3.7dc83049.chunk.js.map",
+    "main.css": "/vivegaaschool-website/static/css/main.4392cce1.chunk.css",
+    "main.js": "/vivegaaschool-website/static/js/main.5e13a2e2.chunk.js",
+    "main.js.map": "/vivegaaschool-website/static/js/main.5e13a2e2.chunk.js.map",
+    "runtime-main.js": "/vivegaaschool-website/static/js/runtime-main.1156b0f3.js",
+    "runtime-main.js.map": "/vivegaaschool-website/static/js/runtime-main.1156b0f3.js.map",
+    "static/js/2.9e09a4e9.chunk.js": "/vivegaaschool-website/static/js/2.9e09a4e9.chunk.js",
+    "static/js/2.9e09a4e9.chunk.js.map": "/vivegaaschool-website/static/js/2.9e09a4e9.chunk.js.map",
+    "static/js/3.8aada2c6.chunk.js": "/vivegaaschool-website/static/js/3.8aada2c6.chunk.js",
+    "static/js/3.8aada2c6.chunk.js.map": "/vivegaaschool-website/static/js/3.8aada2c6.chunk.js.map",
     "index.html": "/vivegaaschool-website/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/vivegaaschool-website/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.2ba87aef.chunk.js.LICENSE.txt": "/vivegaaschool-website/static/js/2.2ba87aef.chunk.js.LICENSE.txt",
+    "static/css/main.4392cce1.chunk.css.map": "/vivegaaschool-website/static/css/main.4392cce1.chunk.css.map",
+    "static/js/2.9e09a4e9.chunk.js.LICENSE.txt": "/vivegaaschool-website/static/js/2.9e09a4e9.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/vivegaaschool-website/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.08db79e2.js",
-    "static/js/2.2ba87aef.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.9b12be42.chunk.js"
+    "static/js/runtime-main.1156b0f3.js",
+    "static/js/2.9e09a4e9.chunk.js",
+    "static/css/main.4392cce1.chunk.css",
+    "static/js/main.5e13a2e2.chunk.js"
   ]
 }
