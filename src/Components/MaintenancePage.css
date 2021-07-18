@@ -1,5 +1,10 @@
-.Down-page {
+/* .Down-page {
   background-color: #fdfcfc;
+  background-image: url('./LOGO.jpg');
+  background-repeat: no-repeat;
+  background-size: 1000px;
+  background-position: center;
+  background-blend-mode: lighten;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -7,4 +12,30 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: rgb(3, 3, 3);
+} */
+
+/* .Down-page {  position: relative; } */
+
+.Down-page:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    background-image: url('./LOGO.jpg');
+   opacity: 0.2;
+   background-size: 1000px;
+   background-repeat: no-repeat;
+   background-position: center;
+   background-position-y: -100px;
+}
+
+.content {
+    position: relative;
+    z-index: 2;
+    font-family: cursive;
+    font-size: 40px;
+    top: 300px;
 }
