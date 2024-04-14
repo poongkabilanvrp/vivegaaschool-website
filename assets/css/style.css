@@ -561,7 +561,7 @@ img {
  ABOUT US COUNTER SECTION
 ====================*/
 #mu-abtus-counter {
-  background-image: url("../img/counter-bg.jpg");
+  /* background-image: url("../img/counter-bg.jpg"); */
   background-repeat: no-repeat;
   background-size: 100%;
   display: inline;
@@ -582,19 +582,19 @@ img {
   width: 100%;
 }
 #mu-abtus-counter .mu-abtus-counter-area .mu-abtus-counter-single span {
-  color: #fff;
+  color: #050505;
   display: inline-block;
   font-size: 50px;
 }
 #mu-abtus-counter .mu-abtus-counter-area .mu-abtus-counter-single h4 {
-  color: #fff;
+  color: #080808;
   font-size: 40px;
   font-weight: bold;
   margin-bottom: 5px;
   margin-top: 20px;
 }
 #mu-abtus-counter .mu-abtus-counter-area .mu-abtus-counter-single p {
-  color: #fff;
+  color: #030303;
   font-size: 18px;
   text-transform: uppercase;
 }
