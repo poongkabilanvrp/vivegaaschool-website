@@ -178,14 +178,12 @@
             </figure>
           </div>
           <div class="mu-slider-content">
-            <!-- <h4>Vivegaa CBSE</h4> -->
+            <!-- <h4>Vivegaa CBSE School</h4> -->
             <!-- <span></span> -->
-            <!-- <h2>Academic Excellence</h2> -->
-            <!-- <h2>Make your Kids' Education their Passion !</h2> -->
-            <!-- <p>Schooling is not just a part , but the foundation of life... </p> -->
-            <!-- <p>Make it Strong !! Build it with us !!!</p> -->
-            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor amet error eius reiciendis eum sint unde eveniet deserunt est debitis corporis temporibus recusandae accusamus.</p> -->
-            <!-- <a href="#" class="mu-read-more-btn">Read More</a> -->
+            <h2>Where Excellence Meets Education</h2>
+            <!-- <p>Nurturing young minds from Nursery to Grade X with academic excellence, holistic development, and personalized attention.</p> -->
+            <!-- <p>Nurturing Excellence • Building Futures</p> -->
+            <!-- <a href="about.html" class="mu-read-more-btn">Discover More</a> -->
           </div>
         </div>
         <!-- Start single slider item -->
@@ -198,8 +196,8 @@
         </figure>
       </div>
       <div class="mu-slider-content">
-        <h4>Vivegaa CBSE</h4>
-        <span></span>
+        <!-- <h4>Vivegaa CBSE</h4> -->
+        <!-- <span></span> -->
         <!-- <h2>Academic Excellence</h2> -->
         <h2>Make your Kids' Education their Passion !</h2>
         <!-- <p>Schooling is not just a part , but the foundation of life... </p> -->
@@ -218,8 +216,8 @@
         </figure>
       </div>
       <div class="mu-slider-content">
-        <h4>Vivegaa CBSE</h4>
-        <span></span>
+        <!-- <h4>Vivegaa CBSE</h4> -->
+        <!-- <span></span> -->
         <h2>Eager Beavers</h2>
         <p>Your future is created by what you do Today !</p>
         <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor amet error eius reiciendis eum sint unde eveniet deserunt est debitis corporis temporibus recusandae accusamus.</p> -->
@@ -236,8 +234,8 @@
         </figure>
       </div>
       <div class="mu-slider-content">
-        <h4>Vivegaa CBSE</h4>
-        <span></span>
+        <!-- <h4>Vivegaa CBSE</h4> -->
+        <!-- <span></span> -->
         <h2>Educate Beyond the Books</h2>
         <p>Learning is not done to you . Learning is something you choose to do .</p>
         <!-- <p>We build the capacities of stiring the spirit of inquiry, creativity, entrepreneurial and moral leadership among students and become a role model.</p> -->
@@ -252,8 +250,8 @@
         </figure>
       </div>
       <div class="mu-slider-content">
-        <h4>Vivegaa CBSE</h4>
-        <span></span>
+        <!-- <h4>Vivegaa CBSE</h4> -->
+        <!-- <span></span> -->
         <h2>Education For Everyone</h2>
         <p>The true purpose of Education is to make minds and not careers .</p>
         <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor amet error eius reiciendis eum sint unde eveniet deserunt est debitis corporis temporibus recusandae accusamus.</p> -->
@@ -269,8 +267,8 @@
         </figure>
       </div>
       <div class="mu-slider-content">
-        <h4>Vivegaa CBSE</h4>
-        <span></span>
+        <!-- <h4>Vivegaa CBSE</h4> -->
+        <!-- <span></span> -->
         <!-- <h2>Admissions 2021 - 2022</h2> -->
         <h2>Co Scholastic Activities</h2>
         <p>Sports do not build character. They Reveal it.</p>
@@ -293,6 +291,21 @@
         <a href="#" class="mu-read-more-btn">Read More</a>
       </div>
     </div> -->
+    <!-- Cultural Event Slider -->
+    <div class="mu-slider-single">
+      <div class="mu-slider-img">
+        <figure>
+          <img src="https://ik.imagekit.io/mq02feebn/vivegaa-assets/img/gallery/CoverPage/cover_photo-1.jpg?updatedAt=1757818585343" alt="Cultural Event">
+        </figure>
+      </div>
+      <div class="mu-slider-content">
+        <!-- <h4>Vivegaa CBSE</h4> -->
+        <!-- <span></span> -->
+        <h2>Celebrating Culture & Arts</h2>
+        <p>Where tradition meets talent</p>
+        <!-- <a href="gallery.html" class="mu-read-more-btn">View Gallery</a> -->
+      </div>
+    </div>
     <!-- Start single slider item -->
   </section>
   <!-- End Slider -->
@@ -397,7 +410,7 @@
               <div class="col-lg-3 col-md-3 col-sm-3">
                 <div class="mu-abtus-counter-single">
                   <span class="fa fa-users"></span>
-                  <h4 class="counter">619</h4>
+                  <h4 class="counter" id="student-counter">619</h4>
                   <p>Students</p>
                 </div>
               </div>
@@ -886,6 +899,20 @@
 
   <!-- Custom js -->
   <script src="assets/js/custom.js"></script>
+
+  <!-- Add + symbol after counter animation completes -->
+  <script>
+    $(document).ready(function() {
+      // Check more frequently for when counter reaches 619
+      var checkCounter = setInterval(function() {
+        var counterElement = document.getElementById('student-counter');
+        if (counterElement && counterElement.textContent === '619') {
+          counterElement.innerHTML = '619<span style="color: #080808; font-size: 40px; font-weight: bold; vertical-align: top; position: relative; top: -2px;">+</span>';
+          clearInterval(checkCounter); // Stop checking once + is added
+        }
+      }, 100); // Check every 100ms for faster response
+    });
+  </script>
 
 </body>
 
