@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "category": "Facilities",
+    "imageUrl": "https://ik.imagekit.io/mq02feebn/vivegaa-assets/img/gallery/2025/web/facilities/DSC_1905.JPG?updatedAt=1754729064190",
+    "title": "Lab",
+    "description": "Lab"
+  },
+  {
+    "id": 2,
+    "category": "Facilities",
+    "imageUrl": "https://ik.imagekit.io/mq02feebn/vivegaa-assets/img/gallery/2025/web/facilities/DSC_1909.JPG?updatedAt=1754729063930",
+    "title": "Lab",
+    "description": "Lab"
+  },
+  {
+    "id": 3,
+    "category": "sports",
+    "imageUrl": "https://ik.imagekit.io/mq02feebn/vivegaa-assets/img/gallery/SPORTS/SPORTS_DAY_5.JPG",
+    "title": "Sports Day",
+    "description": "Sports"
+  },
+  {
+    "id": 4,
+    "category": "Facilities",
+    "imageUrl": "https://ik.imagekit.io/mq02feebn/vivegaa-assets/img/gallery/2025/web/facilities/DSC_1884.JPG?updatedAt=1754729063260",
+    "title": "Lab",
+    "description": "Lab"
+  },
+  {
+    "id": 5,
+    "category": "Facilities",
+    "imageUrl": "https://ik.imagekit.io/mq02feebn/vivegaa-assets/img/gallery/2025/web/facilities/DSC_1898.JPG?updatedAt=1754729062859",
+    "title": "Lab",
+    "description": "Lab"
+  },
+  {
+    "id": 6,
+    "category": "Facilities",
+    "imageUrl": "https://ik.imagekit.io/mq02feebn/vivegaa-assets/img/gallery/2025/web/facilities/DSC_1879.JPG?updatedAt=1754729062794",
+    "title": "Lab",
+    "description": "Lab"
+  },
+  {
+    "id": 7,
+    "category": "Facilities",
+    "imageUrl": "https://ik.imagekit.io/mq02feebn/vivegaa-assets/img/gallery/2025/web/facilities/DSC_1865.JPG?updatedAt=1754729059591",
+    "title": "Lab",
+    "description": "Lab"
+  }
+]
+
